@@ -1,1 +1,1 @@
-# itunes-simple-search-app
+# media-simple-search-app
